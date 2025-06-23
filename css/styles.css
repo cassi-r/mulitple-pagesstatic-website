@@ -1,4 +1,7 @@
 h1 {
-  color: blueviolet;
+  color: rgb(113, 50, 171);
   text-align: center;
+}
+body {
+    background-color: blanchedalmond;
 }
